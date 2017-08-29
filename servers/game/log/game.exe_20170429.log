@@ -1,0 +1,9 @@
+2017/04/29 00:07:35 [release] Leaf 1.1.2 starting up
+2017/04/29 00:15:32 [debug  ] read message: EOF
+2017/04/29 00:17:52 [release] Leaf closing down (signal: interrupt)
+2017/04/29 00:17:56 [release] Leaf 1.1.2 starting up
+2017/04/29 00:19:46 [debug  ] read message: EOF
+2017/04/29 00:20:29 [release] Leaf closing down (signal: interrupt)
+2017/04/29 00:20:29 [debug  ] read message: read tcp 127.0.0.1:8890->127.0.0.1:61495: use of closed network connection
+2017/04/29 00:20:58 [release] Leaf 1.1.2 starting up
+2017/04/29 00:21:07 [debug  ] read message: EOF

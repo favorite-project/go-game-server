@@ -1,0 +1,4 @@
+2017/07/31 12:37:28 [release] Leaf 1.1.2 starting up
+2017/07/31 12:37:28 [debug  ] Gate Module Run
+2017/07/31 12:38:17 [debug  ] read message: EOF
+2017/07/31 12:38:17 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:54573->127.0.0.1:8890: use of closed network connection

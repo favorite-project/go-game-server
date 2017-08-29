@@ -1,0 +1,22 @@
+2017/04/24 23:01:51 [release] Leaf 1.1.2 starting up
+2017/04/24 23:01:51 [debug  ] Game Module Run	111
+2017/04/24 23:01:51 [debug  ] Gate Module Run
+2017/04/24 23:06:02 [debug  ] read message: EOF
+2017/04/24 23:06:02 [debug  ] gs read message: read tcp 127.0.0.1:64916->127.0.0.1:8890: use of closed network connection
+2017/04/24 23:06:07 [debug  ] read message: EOF
+2017/04/24 23:06:07 [debug  ] gs read message: read tcp 127.0.0.1:64933->127.0.0.1:8890: use of closed network connection
+2017/04/24 23:07:49 [debug  ] read message: EOF
+2017/04/24 23:07:49 [debug  ] gs read message: read tcp 127.0.0.1:64951->127.0.0.1:8890: use of closed network connection
+2017/04/24 23:07:56 [debug  ] read message: EOF
+2017/04/24 23:07:56 [debug  ] gs read message: read tcp 127.0.0.1:64992->127.0.0.1:8890: use of closed network connection
+2017/04/24 23:10:32 [debug  ] read message: EOF
+2017/04/24 23:10:32 [debug  ] gs read message: read tcp 127.0.0.1:65026->127.0.0.1:8890: use of closed network connection
+2017/04/24 23:11:50 [debug  ] read message: EOF
+2017/04/24 23:11:50 [debug  ] gs read message: read tcp 127.0.0.1:65088->127.0.0.1:8890: use of closed network connection
+2017/04/24 23:14:04 [debug  ] read message: EOF
+2017/04/24 23:14:04 [debug  ] gs read message: read tcp 127.0.0.1:65136->127.0.0.1:8890: use of closed network connection
+2017/04/24 23:14:09 [debug  ] read message: EOF
+2017/04/24 23:14:09 [debug  ] gs read message: read tcp 127.0.0.1:65140->127.0.0.1:8890: use of closed network connection
+2017/04/24 23:14:14 [debug  ] read message: EOF
+2017/04/24 23:14:14 [debug  ] gs read message: read tcp 127.0.0.1:65148->127.0.0.1:8890: use of closed network connection
+2017/04/25 16:49:08 [release] Leaf closing down (signal: interrupt)

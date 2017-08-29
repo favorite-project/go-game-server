@@ -1,0 +1,63 @@
+2017/06/21 22:04:39 [release] Leaf 1.1.2 starting up
+2017/06/21 22:04:39 [debug  ] Gate Module Run
+2017/06/21 22:05:12 [debug  ] read message: EOF
+2017/06/21 22:05:12 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:65314->127.0.0.1:8890: use of closed network connection
+2017/06/21 22:14:53 [debug  ] read message: EOF
+2017/06/21 22:14:53 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:50664->127.0.0.1:8890: use of closed network connection
+2017/06/21 22:15:53 [debug  ] read message: EOF
+2017/06/21 22:15:53 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:50865->127.0.0.1:8890: use of closed network connection
+2017/06/21 22:17:53 [debug  ] read message: EOF
+2017/06/21 22:17:53 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:51071->127.0.0.1:8890: use of closed network connection
+2017/06/21 22:42:04 [debug  ] read message: EOF
+2017/06/21 22:42:04 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:56622->127.0.0.1:8890: use of closed network connection
+2017/06/21 22:43:38 [debug  ] read message: EOF
+2017/06/21 22:43:38 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:56866->127.0.0.1:8890: use of closed network connection
+2017/06/21 23:02:04 [debug  ] read message: EOF
+2017/06/21 23:02:04 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:60935->127.0.0.1:8890: use of closed network connection
+2017/06/21 23:15:42 [error  ] newGSConn io.ReadFull error1:EOF
+2017/06/21 23:15:42 [debug  ] read message: read tcp 127.0.0.1:11000->127.0.0.1:63184: use of closed network connection
+2017/06/21 23:17:29 [error  ] newGSConn io.ReadFull error1:EOF
+2017/06/21 23:17:29 [debug  ] read message: read tcp 127.0.0.1:11000->127.0.0.1:63986: use of closed network connection
+2017/06/21 23:18:01 [debug  ] read message: EOF
+2017/06/21 23:18:01 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:64165->127.0.0.1:8890: use of closed network connection
+2017/06/21 23:22:20 [debug  ] read message: EOF
+2017/06/21 23:22:20 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:64899->127.0.0.1:8890: use of closed network connection
+2017/06/21 23:23:11 [debug  ] read message: EOF
+2017/06/21 23:23:11 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:65151->127.0.0.1:8890: use of closed network connection
+2017/06/21 23:38:29 [debug  ] read message: EOF
+2017/06/21 23:38:29 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:51929->127.0.0.1:8890: use of closed network connection
+2017/06/21 23:42:12 [debug  ] read message: EOF
+2017/06/21 23:42:12 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:52612->127.0.0.1:8890: use of closed network connection
+2017/06/21 23:42:42 [debug  ] read message: EOF
+2017/06/21 23:42:42 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:52778->127.0.0.1:8890: use of closed network connection
+2017/06/21 23:43:34 [debug  ] read message: EOF
+2017/06/21 23:43:34 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:52907->127.0.0.1:8890: use of closed network connection
+2017/06/21 23:44:17 [debug  ] read message: EOF
+2017/06/21 23:44:17 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:53071->127.0.0.1:8890: use of closed network connection
+2017/06/21 23:45:07 [debug  ] read message: EOF
+2017/06/21 23:45:07 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:53212->127.0.0.1:8890: use of closed network connection
+2017/06/22 00:12:22 [error  ] newGSConn io.ReadFull error1:EOF
+2017/06/22 00:12:22 [debug  ] read message: read tcp 127.0.0.1:11000->127.0.0.1:59009: use of closed network connection
+2017/06/22 00:13:35 [error  ] newGSConn io.ReadFull error1:EOF
+2017/06/22 00:13:35 [debug  ] read message: read tcp 127.0.0.1:11000->127.0.0.1:59232: use of closed network connection
+2017/06/22 00:14:49 [error  ] newGSConn io.ReadFull error1:EOF
+2017/06/22 00:14:49 [debug  ] read message: read tcp 127.0.0.1:11000->127.0.0.1:59452: use of closed network connection
+2017/06/22 00:17:01 [error  ] newGSConn io.ReadFull error1:EOF
+2017/06/22 00:17:01 [debug  ] read message: read tcp 127.0.0.1:11000->127.0.0.1:60013: use of closed network connection
+2017/06/22 00:38:23 [debug  ] read message: EOF
+2017/06/22 00:38:23 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:60381->127.0.0.1:8890: use of closed network connection
+2017/06/22 00:39:53 [debug  ] read message: EOF
+2017/06/22 00:39:53 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:64014->127.0.0.1:8890: use of closed network connection
+2017/06/22 00:40:22 [debug  ] read message: EOF
+2017/06/22 00:40:22 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:64080->127.0.0.1:8890: use of closed network connection
+2017/06/22 00:40:31 [debug  ] read message: EOF
+2017/06/22 00:40:31 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:64126->127.0.0.1:8890: use of closed network connection
+2017/06/22 00:40:38 [debug  ] read message: EOF
+2017/06/22 00:40:38 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:64156->127.0.0.1:8890: use of closed network connection
+2017/06/22 00:46:31 [debug  ] read message: EOF
+2017/06/22 00:46:31 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:65135->127.0.0.1:8890: use of closed network connection
+2017/06/22 00:49:40 [error  ] newGSConn io.ReadFull error1:EOF
+2017/06/22 00:49:40 [debug  ] read message: read tcp 127.0.0.1:11000->127.0.0.1:49610: use of closed network connection
+2017/06/22 00:51:03 [debug  ] read message: EOF
+2017/06/22 00:51:03 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:50074->127.0.0.1:8890: use of closed network connection
+2017/06/22 01:00:02 [release] Leaf closing down (signal: interrupt)

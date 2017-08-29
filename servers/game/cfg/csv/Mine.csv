@@ -1,0 +1,5 @@
+id,name,desc,icon,quality,level,nextId,buyItems,lvUpItems,productItemId,robPer,fullSec,perSecNum,works
+ID,名称,描述,图片,品质,等级,升级后的新id,购买需要的物品,升级需要的物品,产出物品id,抢劫获得当前收益百分比 基数是1000,最大收益秒数,每秒产出,工作
+int,string,string,string,int,int,,string,string,int,int,int,int,string
+10000,云霁酒馆,获取条件:银币*1000000，酒馆购买凭据*1\n产出：10银币/每秒,jiuguan,1,1,10001,200001+1000000;60033+1,200001+1000000,200001,400,43200,10,1
+10001,真悟道馆,获取条件:银币*2000000，胜利号角*1\n产出：20经验/每秒,jbiwu,1,1,0,200001+2000000;60034+1,,300001,400,43200,20,2

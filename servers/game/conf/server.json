@@ -1,0 +1,18 @@
+{
+	"LogLevel":"debug",
+	"LogPath":"D:\\Game\\server\\go\\src\\xianxia\\servers\\game\\log\\",
+	"WSAddr":"",
+	"TCPAddr":":8890",
+	"MaxConnNum":10,
+	"ConsolePort":8899,
+	"ProfilePath":"D:\\Game\\server\\go\\src\\xianxia\\servers\\game\\log\\profile\\",
+	"RedisAddrs": {
+		"LogAddr":"139.199.11.14:8888",
+		"DBAddr":"139.199.11.14:8888"
+	},
+	"CsvDataPath":"D:\\Game\\server\\go\\src\\xianxia\\servers\\game\\cfg\\csv\\",
+	"ServerID":1,
+	"PlatformName":"self",
+	"PlatformId":1,
+	"HttpServer":":13000"
+}

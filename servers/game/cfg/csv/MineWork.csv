@@ -1,0 +1,6 @@
+id,name,desc,maxCount,itemId,itemNum
+ID,名称,描述,每日最大次数,产出物品,产出物品数量
+int,string,string,int,int,int
+1,洗盘子,,500,200001,1000
+2,切磋,,100,300001,10000
+3,挖矿,,1000,200001,10

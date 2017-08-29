@@ -1,0 +1,17 @@
+2017/07/27 01:28:43 [release] Leaf 1.1.2 starting up
+2017/07/27 01:30:48 [debug  ] read message: EOF
+2017/07/27 01:31:43 [debug  ] read message: EOF
+2017/07/27 01:33:49 [debug  ] read message: EOF
+2017/07/27 01:36:11 [debug  ] read message: EOF
+2017/07/27 13:25:43 [release] Leaf closing down (signal: interrupt)
+2017/07/27 13:25:50 [release] Leaf 1.1.2 starting up
+2017/07/27 13:26:04 [debug  ] read message: EOF
+2017/07/27 13:28:02 [debug  ] player:1 kicked
+2017/07/27 13:28:02 [debug  ] read message: read tcp 127.0.0.1:8890->127.0.0.1:58344: use of closed network connection
+2017/07/27 13:34:10 [debug  ] player:1 kicked
+2017/07/27 13:34:10 [debug  ] read message: read tcp 127.0.0.1:8890->127.0.0.1:58467: use of closed network connection
+2017/07/27 13:39:59 [debug  ] read message: EOF
+2017/07/27 13:40:14 [release] Leaf closing down (signal: interrupt)
+2017/07/27 13:40:20 [release] Leaf 1.1.2 starting up
+2017/07/27 13:40:48 [debug  ] read message: EOF
+2017/07/28 01:34:45 [release] Leaf closing down (signal: interrupt)

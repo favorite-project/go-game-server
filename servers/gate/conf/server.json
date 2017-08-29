@@ -1,0 +1,10 @@
+{
+	"LogLevel":"debug",
+	"LogPath":"D:/Game/server/go/src/xianxia/servers/gate/log/",
+	"WSAddr":"",
+	"TCPAddr":":11000",
+	"MaxConnNum":10,
+	"ConsolePort":8889,
+	"ProfilePath":"D:/Game/server/go/src/xianxia/servers/gate/log/profile\\",
+	"GameServerAddr":"127.0.0.1:8890"
+}

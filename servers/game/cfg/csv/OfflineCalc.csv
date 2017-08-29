@@ -1,0 +1,10 @@
+id,fightCount,whiteEquipNum,blueEquipNum,greenEquipNum,purpleEquipNum,orangeEquipNum,redEquipNum
+ID,战斗次数,白装数量区间,白装数量区间,白装数量区间,白装数量区间,白装数量区间,白装数量区间
+int,int,string,string,string,string,string,string
+1,100,20-50,,,,,
+2,200,,,,,,
+3,300,,,,,,
+4,,,,,,,
+5,,,,,,,
+6,,,,,,,
+7,,,,,,,

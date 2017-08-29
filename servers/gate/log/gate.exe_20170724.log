@@ -1,0 +1,23 @@
+2017/07/24 21:28:00 [release] Leaf 1.1.2 starting up
+2017/07/24 21:28:00 [debug  ] Gate Module Run
+2017/07/24 21:30:12 [debug  ] read message: EOF
+2017/07/24 21:30:12 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:51743->127.0.0.1:8890: use of closed network connection
+2017/07/24 21:31:56 [debug  ] read message: EOF
+2017/07/24 21:31:56 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:51836->127.0.0.1:8890: use of closed network connection
+2017/07/24 21:32:32 [debug  ] read message: EOF
+2017/07/24 21:32:32 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:51847->127.0.0.1:8890: use of closed network connection
+2017/07/24 21:34:56 [debug  ] read message: EOF
+2017/07/24 21:34:56 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:52125->127.0.0.1:8890: use of closed network connection
+2017/07/24 21:35:54 [error  ] newGSConn io.ReadFull error1:EOF
+2017/07/24 21:35:54 [debug  ] read message: read tcp 127.0.0.1:11000->127.0.0.1:52170: use of closed network connection
+2017/07/24 21:36:18 [debug  ] read message: EOF
+2017/07/24 21:36:18 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:52233->127.0.0.1:8890: use of closed network connection
+2017/07/24 21:36:51 [error  ] newGSConn io.ReadFull error1:EOF
+2017/07/24 21:36:51 [debug  ] read message: read tcp 127.0.0.1:11000->127.0.0.1:52254: use of closed network connection
+2017/07/24 21:38:10 [error  ] connect 127.0.0.1:8890 err:dial tcp 127.0.0.1:8890: connectex: No connection could be made because the target machine actively refused it.
+2017/07/24 21:38:10 [debug  ] read message: read tcp 127.0.0.1:11000->127.0.0.1:52346: use of closed network connection
+2017/07/24 21:38:48 [debug  ] read message: EOF
+2017/07/24 21:38:48 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:52364->127.0.0.1:8890: use of closed network connection
+2017/07/24 21:39:39 [debug  ] read message: EOF
+2017/07/24 21:39:39 [error  ] newGSConn io.ReadFull error1:read tcp 127.0.0.1:52406->127.0.0.1:8890: use of closed network connection
+2017/07/25 14:03:28 [release] Leaf closing down (signal: interrupt)
